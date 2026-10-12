@@ -4,6 +4,6 @@ int main(void) {
     /* 課題0301: prinfのカッコの中を記入して、変数iの中身を表示させてください */
     int i;
     scanf("%d",&i);
-    printf("%d",i*21); 
+    printf("%d",i*5); 
     return 0;
 }

@@ -1,9 +1,12 @@
 #include <stdio.h>
 
 int main(void) {
-    /* 課題0301: prinfのカッコの中を記入して、変数iの中身を表示させてください */
     int i;
-    scanf("%d",&i);
-    printf("%d",i*5); 
+    scanf("%d", &i);
+
+    long long ans = (long long)i * 21;
+    printf("%lld", ans);
+
     return 0;
 }
+

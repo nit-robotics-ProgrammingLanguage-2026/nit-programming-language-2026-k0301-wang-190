@@ -3,7 +3,7 @@
 int main(void) {
     int i;
     scanf("%d", &i);
-    printf("%lld", ans);
+    printf("%lld",int );
 
     return 0;
 }
